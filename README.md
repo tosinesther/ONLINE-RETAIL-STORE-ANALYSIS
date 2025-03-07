@@ -137,7 +137,7 @@ We observed that UK dominated in sales because they have a dominant customer bas
   - Steady growth, fluctuating around 1,850 - 1,865 units.
   - February sees the highest sales (1,865 units).
   - No drastic spikes or drops.
-  - 
+    
 ![Screenshot 2025-03-07 195852](https://github.com/user-attachments/assets/10df11ad-5bb5-45d6-9810-6ef568e715e8)
 
 ### Business Recommendations
