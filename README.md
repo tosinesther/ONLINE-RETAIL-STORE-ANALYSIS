@@ -35,3 +35,27 @@
 - 5,268 duplicate rows.
 - Some rows in Country labeled as 'Unspecified'.
 ### Data Cleaning Process
+- Filled missing values in Description as "Unknown".
+- Assigned unique negative CustomerID values for missing entries.
+- Removed rows with negative Quantity and zero or negative UnitPrice.
+- Dropped 5,268 duplicate rows.
+- Standardized Country by removing 'Unspecified' entries.
+### Exploratory Data Analysis (EDA)
+#### Key Insights
+###### Best-Selling Products
+- Top product: Paper Craft Little Birdie (80,995 units sold).
+- Second: Medium Ceramic Top Storage Jar (78,033 units).
+- Third: World War 2 Gliders Asstd Designs (54,855 units).
+###### Top 10 Revenue-Generating Products
+- Top product: Dotcom Postage ($206,248.77 revenue).
+- Second: Regency Cakestand 3 Tier ($174,131.04 revenue).
+- Third: Paper Craft Little Birdie ($168,469.60 revenue).
+###### Total Revenue Per Country
+- United Kingdom: $9,001,855.17
+- Netherlands: $285,446.34
+- EIRE: $283,170.52
+###### Number of Transactions Per Country
+- United Kingdom: 18,019 transactions.
+- Germany: 457 transactions.
+- France: 392 transactions.
+##### Visualizations
