@@ -58,4 +58,7 @@
 - United Kingdom: 18,019 transactions.
 - Germany: 457 transactions.
 - France: 392 transactions.
-##### Visualizations
+#### Visualizations
+![Screenshot 2025-03-07 192422](https://github.com/user-attachments/assets/239eada6-a2e8-4e69-9e92-57e830504cb6)
+The trend reveals a hike in sales around 2011
+
