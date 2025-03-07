@@ -25,3 +25,13 @@
 - UnitPrice - Price per unit.
 - CustomerID - Unique customer identifier.
 - Country - Customer's country.
+### Identified Issues:
+- 1,454 missing values in Description.
+- 135,080 missing values in CustomerID.
+- 10,624 negative values in Quantity.
+- 2 negative values in UnitPrice.
+- 2,515 zero values in UnitPrice.
+- Special characters and blanks in Description.
+- 5,268 duplicate rows.
+- Some rows in Country labeled as 'Unspecified'.
+### Data Cleaning Process
