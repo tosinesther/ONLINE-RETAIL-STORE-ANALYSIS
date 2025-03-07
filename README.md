@@ -72,8 +72,7 @@ This visual uncovers the monthly sales trend around 2011. Seasonal demand contri
 
 UK had a serious boost in sales around 2011 - contributing significantly to the sales hike, also expansion in new international market was a big contribution.
 
-![Screenshot 2025-03-07 193000](https://github.com/user-attachments/assets/c9e515ff-b17e-474d-a8bd-7cbbc1850
-99e)
+![Screenshot 2025-03-07 193000](https://github.com/user-attachments/assets/c9e515ff-b17e-474d-a8bd-7cbbc185099e)
 
 There was a high rate of new customers in 2011, this contributed significantly to the sales hike.
 
